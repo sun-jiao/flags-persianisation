@@ -7,9 +7,9 @@
    data-name="Flag of Iran"
    version="1.1"
    viewBox="0 0 900 600"
-   sodipodi:docname="China-panda-new.svg"
+   sodipodi:docname="China-panda.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="China-panda-new-final.png"
+   inkscape:export-filename="China-panda-new-new.png"
    inkscape:export-xdpi="213.33333"
    inkscape:export-ydpi="213.33333"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -139,11 +139,11 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1.4142136"
-   inkscape:cx="418.25366"
-   inkscape:cy="367.34197"
-   inkscape:window-width="2880"
-   inkscape:window-height="1678"
+   inkscape:zoom="0.7071068"
+   inkscape:cx="342.23967"
+   inkscape:cy="222.03152"
+   inkscape:window-width="1800"
+   inkscape:window-height="1049"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
@@ -151,7 +151,7 @@
   <path
    id="green_band"
    d="M 0,0 H 900 V 600 H 0 Z"
-   style="display:inline;fill:#002765;fill-opacity:1;stroke-width:0.92582" />
+   style="display:inline;fill:#ffff00;fill-opacity:1;stroke-width:0.92582" />
   <path
    id="white_band"
    d="M 0,0 H 900 V 400 H 0 Z"
