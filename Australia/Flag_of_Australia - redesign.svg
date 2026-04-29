@@ -9,7 +9,7 @@
    viewBox="0 0 1050 600"
    sodipodi:docname="Flag_of_Australia - redesign.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="Flag_of_Australia.png"
+   inkscape:export-filename="Flag_of_Australia Boomerang.png"
    inkscape:export-xdpi="182.85715"
    inkscape:export-ydpi="182.85715"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -25,9 +25,9 @@
    inkscape:pageopacity="0.0"
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
-   inkscape:zoom="1"
-   inkscape:cx="416.5"
-   inkscape:cy="264"
+   inkscape:zoom="0.70710678"
+   inkscape:cx="468.8118"
+   inkscape:cy="70.710678"
    inkscape:window-width="1800"
    inkscape:window-height="1049"
    inkscape:window-x="0"
@@ -75,7 +75,8 @@
    id="g33"
    inkscape:label="kangaroo"><g
      id="g26"
-     inkscape:label="knife"><path
+     inkscape:label="knife"
+     style="display:none"><path
        style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
        d="m 361.98417,262.60842 c 0,0 1.14716,-6.41884 6.28675,-6.31893 2.29936,0.0447 25.91778,4.46248 28.84752,4.68458 6.24173,0.47319 7.44088,-6.26501 7.44088,-6.26501"
        id="path8"
@@ -87,7 +88,12 @@
        style="display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
        d="m 379.77621,259.8294 c -2.91738,21.96729 -6.46063,40.3038 -2.75001,40.74999 4.45962,0.53626 4.80495,-16.25756 8.00001,-39.99999"
        id="path10"
-       sodipodi:nodetypes="csc" /></g><g
+       sodipodi:nodetypes="csc" /></g><path
+     style="fill:#ffcd00;fill-opacity:1;stroke:#000000;stroke-width:5.06857;stroke-dasharray:none;stroke-opacity:1"
+     d="m 363.87125,214.91498 c 5.71227,2.05522 18.1388,10.98147 22.80586,15.45253 7.50938,7.19402 10.70929,10.40086 6.95375,21.11131 -2.16522,6.17498 -11.24454,18.24152 -14.89482,23.01321 -3.65028,4.77169 -7.78659,6.94085 -5.85594,0.3558 1.93062,-6.58507 6.47869,-18.87501 7.02447,-25.34922 0.54578,-6.4742 0.91383,-6.80326 -2.27978,-11.60715 -3.19363,-4.8039 -12.08986,-15.18208 -16.40184,-19.32793 -4.31199,-4.14586 -3.06396,-5.70375 2.6483,-3.64855 z"
+     id="path15"
+     sodipodi:nodetypes="zzzzzzzzz"
+     inkscape:label="Boomerang" /><g
      id="g27"
      inkscape:label="toes"><path
        style="fill:#ffcd00;fill-opacity:1;stroke:none;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
@@ -109,7 +115,7 @@
        id="path1"
        style="fill:#ffcd00;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:square;stroke-linejoin:round"
        d="M 388 263.5 L 387.57031 265.89062 L 387 265.1875 L 377.6875 269.125 L 379.1875 273.8125 L 385.26562 278.67578 L 384.375 283.625 L 425.25 300.25 L 441.75 296.75 L 435.75 273.5 L 421.75 281 L 394 275 L 393.16211 273.39453 L 393.375 273.0625 L 392.28906 271.7207 L 388 263.5 z " /><path
-       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:23.8574;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:23.85740714;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none"
        d="m 1468.0471,27.079518 -62.1286,40.259374 c 0,0 -95.4996,-17.505484 -104.6374,-24.534513 -9.1377,-7.029068 -14.0582,-31.982206 -28.4677,-37.2540233 -14.2077,-5.19800002 -42.5258,4.5688923 -44.283,23.1958803 -1.7573,18.627029 18.079,19.098237 24.9531,16.518286 5.8306,-2.188318 -4.9203,44.985951 -4.9203,44.985951 0,0 26.7104,-7.029029 34.4424,-6.32615 7.7319,0.702919 124.4142,56.232467 138.4724,57.638267 14.0581,1.40579 67.4789,-16.16682 67.4789,-16.16682"
        id="path16"
        sodipodi:nodetypes="ccsssscssc"

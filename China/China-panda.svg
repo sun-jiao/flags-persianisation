@@ -9,7 +9,7 @@
    viewBox="0 0 900 600"
    sodipodi:docname="China-panda.svg"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
-   inkscape:export-filename="China-panda-new-new.png"
+   inkscape:export-filename="China-panda-new-new-new.png"
    inkscape:export-xdpi="213.33333"
    inkscape:export-ydpi="213.33333"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -140,7 +140,7 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:zoom="0.7071068"
-   inkscape:cx="342.23967"
+   inkscape:cx="341.53257"
    inkscape:cy="222.03152"
    inkscape:window-width="1800"
    inkscape:window-height="1049"
@@ -151,7 +151,7 @@
   <path
    id="green_band"
    d="M 0,0 H 900 V 600 H 0 Z"
-   style="display:inline;fill:#ffff00;fill-opacity:1;stroke-width:0.92582" />
+   style="display:inline;fill:#f4dd10;fill-opacity:1;stroke-width:0.92582" />
   <path
    id="white_band"
    d="M 0,0 H 900 V 400 H 0 Z"
@@ -159,27 +159,27 @@
   <path
    id="red_band"
    d="M 0,0 H 900 V 200 H 0 Z"
-   style="fill:#d40000;fill-opacity:1;stroke-width:0.92582" />
+   style="fill:#cc0000;fill-opacity:1;stroke-width:0.92582" />
   
 <g
    id="g1"
    transform="matrix(0.20455181,0,0,0.20455181,224.84378,99.150031)"
-   style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+   style="display:inline;fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
    inkscape:label="stars"><path
      id="polygon2557"
-     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 989.10937,145.06055 -56.16992,65.77929 -79.91015,-33.09961 45.1914,73.74024 -56.16992,65.7793 84.09961,-20.19922 45.18945,73.75 6.79102,-86.23047 84.10934,-20.18945 -79.91012,-33.10157 z" /><path
      id="polygon2577"
-     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 1212.3496,145.06055 6.7812,86.22851 -79.9101,33.10157 84.1093,20.18945 6.7891,86.23047 45.1914,-73.75 84.0996,20.19922 -56.1699,-65.7793 45.1894,-73.74024 -79.9101,33.09961 z" /><path
      id="polygon2597"
-     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="M 1489.5292,-85.91016 1456.4296,-6 l -86.2304,-6.79102 65.7716,56.18165 -33.1016,79.9082 73.75,-45.19922 65.7715,56.17969 -20.1914,-84.10938 73.75,-45.18945 -86.2285,-6.79102 z" /><path
      id="polygon2617"
-     style="fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 711.92969,-85.91016 -20.18946,84.09961 -86.23046,6.79102 73.75,45.18945 -20.18946,84.10938 65.76953,-56.17969 73.75,45.19922 -33.09961,-79.9082 65.76954,-56.18165 L 745.0293,-6 Z" /><path
      id="polygon3189"
-     style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+     style="display:inline;fill:#f4dd10;fill-opacity:1;stroke:none;stroke-width:11.8818;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
      d="m 1100.7305,-362.5 -53.461,164.51953 H 874.2793 L 1014.2402,-96.30078 960.7793,68.2207 1100.7305,-33.46094 1240.6796,68.2207 1187.2208,-96.30078 1327.1796,-197.98047 h -172.9902 z" /></g><g
    id="g15"
    transform="matrix(0.50775628,0,0,0.50775628,-317.15886,122.07859)"><g
